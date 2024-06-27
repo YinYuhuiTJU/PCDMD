@@ -8,17 +8,26 @@ Diffusion
 --------------
 I used the Finite Differential Method to simulate the ground truth. Then I used the DMD and PCDMD to reconstruct and predict.
 
-![calculated result1](./animation/Groundtruth.mp4)
-![calculated result2](./animation/DMD.mp4)
-![calculated result3](./animation/PCDMD.mp4)
+
+
 
 Incompressible fluid solver
 --------------
 I used the [finite volume method (FVM)](https://en.wikipedia.org/wiki/Finite_volume_method) to represent the Navier-Stokes equation. The [Semi-Implicit Method for Pressure Linked Equations (SIMPLE)](https://en.wikipedia.org/wiki/SIMPLE_algorithm) was used to solve the velocity and pressure field iteratively.
 
-![Watch the video](./animation/Groundtruth.mp4)
-![Watch the video](./animation/PCDMD.mp4)
-![Watch the video](./animation/DMD.mp4)
+
+
+https://github.com/YinYuhuiTJU/PCDMD/assets/173525930/3c7bd4c0-ae8f-4af8-875f-316c38ca2435
+
+
+https://github.com/YinYuhuiTJU/PCDMD/assets/173525930/b1beeaf6-4459-4fef-a7ba-998fbfcab4d5
+
+
+https://github.com/YinYuhuiTJU/PCDMD/assets/173525930/e662b5cb-b30a-454a-8102-27bf2a8dee9e
+
+
+
+
 
 Navigating the code
 --------------
