@@ -16,9 +16,9 @@ Incompressible fluid solver
 --------------
 I used the [finite volume method (FVM)](https://en.wikipedia.org/wiki/Finite_volume_method) to represent the Navier-Stokes equation. The [Semi-Implicit Method for Pressure Linked Equations (SIMPLE)](https://en.wikipedia.org/wiki/SIMPLE_algorithm) was used to solve the velocity and pressure field iteratively.
 
-![calculated result1](./animation/Groundtruth.mp4)
-![calculated result2](./animation/DMD.mp4)
-![calculated result3](./animation/PCDMD.mp4)
+![Watch the video](./animation/Groundtruth.mp4)
+![Watch the video](./animation/PCDMD.mp4)
+![Watch the video](./animation/DMD.mp4)
 
 Navigating the code
 --------------
